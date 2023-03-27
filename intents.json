@@ -18,5 +18,9 @@
     {"tag":"rubber",
     "patterns":["Which type of rubber products are available?","I need rubber products","which sort of rubber can I get?","I want rubber"],
     "responses":["We supply synthetic as well as natural rubber products","We manufacture a huge variety of rubber products","We satisfy needs for all rubber products"]
+    },
+    {"tag":"order",
+    "patterns":["How can I order?","Can I order online","When will I get my order?","I want rubber"],
+    "responses":["You can order online as well as by getting in touch with our representatives","We deliver products within 15 days after the initial payment is made"]
     }
 ]}
