@@ -11,20 +11,16 @@
     "patterns":["what is your name","what should I call you","whats your name?","who are you?","what shall i call you"],
     "responses":["You can call me Rubie","I'm Rubie","I'm Rubie,your assistant"]
     },
-    {"tag":"products",
-    "patterns":["What are the different types of products you sell?","What type of rubber do you deal with?","which type of products are availaible?","What all products do you offer?"],
-    "responses":["Yes we have rubber products","Rubber products are availabe","Yes we supply rubber products"]
-    },
     {"tag":"rubber",
-    "patterns":["I need rubber products","which sort of rubber can I get?","I want rubber"],
-    "responses":["We supply synthetic as well as natural rubber products","We manufacture a huge variety of rubber products","We satisfy needs for all rubber products"]
+    "patterns":["which sort of rubber can I get?","I want rubber"],
+    "responses":["We supply synthetic as well as natural rubber products","We manufacture a huge variety of rubber products","We satisfy needs for a wide variety rubber products"]
     },
     {"tag":"order",
     "patterns":["How can I order?","Can I order online","When will I get my order?","I want rubber"],
     "responses":["You can order online as well as by getting in touch with our representatives","We deliver products within 15 days after the initial payment is made"]
     },
     {"tag":"type",
-    "patterns":["Which type of rubber products do you offer?","What type of rubber do you deal with?"],
+    "patterns":["Which type of rubber products do you offer?","What type of rubber do you deal with?", "What type of rubber products do you sell?"],
     "responses":["We manufacture the following products : Rubber moulded products , Rubber seals, Rubber Rings , Rubber O-Rings , Rubber caps"]
     },
     {"tag":"Rubber moulded products",
