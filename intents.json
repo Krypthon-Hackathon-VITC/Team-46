@@ -12,7 +12,7 @@
     "responses":["You can call me Rubie","I'm Rubie","I'm Rubie,your assistant"]
     },
     {"tag":"products",
-    "patterns":["do you have rubber products?","Are rubber products availaible?","which type of products are availaible?","Where can I get rubber products?"],
+    "patterns":["What are the different types of products you sell?","What type of rubber do you deal with?","which type of products are availaible?","What all products do you offer?"],
     "responses":["Yes we have rubber products","Rubber products are availabe","Yes we supply rubber products"]
     },
     {"tag":"rubber",
