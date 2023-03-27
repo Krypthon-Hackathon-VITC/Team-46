@@ -1,0 +1,22 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["hello","hey","hi","good day","greetings","what's up","how is going"],
+    "responses":["Hello!","Hey","What can I do for you?"]
+    },
+    {"tag":"goodbye",
+    "patterns":["See you later","bye","goodbye","have a good day"],
+    "responses":["Goodbye","Sad to see you go","Bye"]
+    },
+    {"tag":"name",
+    "patterns":["what is your name","what should I call you","whats your name?","who are you?","what shall i call you"],
+    "responses":["You can call me Rubie","I'm Rubie","I'm Rubie,your assistant"]
+    },
+    {"tag":"products",
+    "patterns":["do you have rubber products?","Are rubber products availaible?","which type of products are availaible?","Where can I get rubber products?"],
+    "responses":["Yes we have rubber products","Rubber products are availabe","Yes we supply rubber products"]
+    },
+    {"tag":"rubber",
+    "patterns":["Which type of rubber products are available?","I need rubber products","which sort of rubber can I get?","I want rubber"],
+    "responses":["We supply synthetic as well as natural rubber products","We manufacture a huge variety of rubber products","We satisfy needs for all rubber products"]
+    }
+]}
