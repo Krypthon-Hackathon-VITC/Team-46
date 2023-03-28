@@ -45,24 +45,24 @@
     },
     {"tag":"Transformer Rubber Washers",
      "patterns":["Would you help me with the rate of this product and its standard description?", "What's the price of transformer nitrile rubber?"],
-     "responses":["The product is sold for 2.5 INR per piece, Standard Design is: Shape	Round Rubber, Type	Nitrile, Size	28 mm, Material	Rubber, Color	Black,  Diameter	30 mm,  Finishing	Coated"]
+     "responses":["The product is sold for 2.5 INR per piece, Standard Design is: Shape->Round Rubber, Type->Nitrile, Size->28 mm, Material->Rubber, Color->Black, Diameter->30 mm, Finishing->Coated"]
     },
     {"tag":"Rubber Pistons",
      "patterns":["Would you help me with the rate of this product and its standard description?", "What's the price of Rubber Pistons?"],
-     "responses":["The product is sold for 13 INR per piece, Standard Design is: Shape	Round,  Material  Rubber, Outer Diameter   63mm, Color	Black, Temperature	Max. 180 Degree F.    We are one of the prominent and leading manufacturers and suppliers of a wide array of Rubber Piston. All our products are manufactured with the aid of our modern infrastructure facility, which ensure safety and hygiene of the products. Under the able guidance of our professionals, we develop these products utilizing maximum amount of resources without any harm to the environment. While manufacturing, we follow industry set norms and guidelines.\n Size : 63mm, 75mm, 90mm, 110mm, 140mm, 160mm, 180mm, 200mm, 225mm etc. \n Features:High performance, Smooth running, Easy operation, Least maintenance, Rugged design"]
+     "responses":["The product is sold for 13 INR per piece, Standard Design is: Shape->Round, Material->Rubber, Outer Diameter->63mm, Color->Black, Temperature-.Max. 180 Degree F. We are one of the prominent and leading manufacturers and suppliers of a wide array of Rubber Piston. All our products are manufactured with the aid of our modern infrastructure facility, which ensure safety and hygiene of the products. Under the able guidance of our professionals, we develop these products utilizing maximum amount of resources without any harm to the environment. While manufacturing, we follow industry set norms and guidelines.\n Size : 63mm, 75mm, 90mm, 110mm, 140mm, 160mm, 180mm, 200mm, 225mm etc. \n Features:High performance, Smooth running, Easy operation, Least maintenance, Rugged design"]
     },
     {"tag":"Rubber Bushes",
      "patterns":["Would you help me with the rate of this product and its standard description?", "What's the price of Rubber Bushes?"],
-     "responses":["The product is sold for 10 INR per piece, Standard Design is: Shape	Round,  Material  Rubber, Outer Diameter   8-12cm, Color	Black, Packaging Type  Box.      We are leading manufacture of vast range of Rubber Bushes. We provide it in various shapes, designs and sizes. The elastic properties arise from the its ability to stretch the chain in various applications differently."]
+     "responses":["The product is sold for 10 INR per piece, Standard Design is: Shape->Round, Material->Rubber, Outer Diameter->8-12cm, Color->Black, Packaging Type->Box. We are leading manufacture of vast range of Rubber Bushes. We provide it in various shapes, designs and sizes. The elastic properties arise from the its ability to stretch the chain in various applications differently."]
     },
     {
     "tag":"Rubber Couplings",
      "patterns":["Would you help me with the rate of this product and its standard description?", "What's the price of Rubber Couplings?"],
-     "responses":["The product is sold for 100 INR per piece, Standard Design is: Shape	Round,  Material  Rubber,  Application   Two Wheeler Vehicles,  Color	Black.  We hold maximum expertise and experience in manufacturing and supplying a vast range of the Rubber Coupling. Our extensive ranges of the products are produced by using supreme quality raw materials and other components."]
+     "responses":["The product is sold for 100 INR per piece, Standard Design is: Shape->Round, Material->Rubber, Application->Two Wheeler Vehicles, Color->Black. We hold maximum expertise and experience in manufacturing and supplying a vast range of the Rubber Coupling. Our extensive ranges of the products are produced by using supreme quality raw materials and other components."]
     },{
     "tag":"Rubber Gaskets",
      "patterns":["Would you help me with the rate of this product and its standard description?", "What's the price of Rubber Gaskets?"],
-     "responses":["The product is sold for 5 INR per piece, Standard Design is: Shape	Ring gasket,  Material  Natural Rubber,  Finish   Coated,  Color	Black.  We have achieved a great deal of expertise in both manufacturing and supplying of the most durable Rubber Gaskets available in the industry. Our Rubber Gaskets are dimensionally accurate and the overall designing of its external and internal features are at par with the latest industrial standards. Our Rubber Gaskets are designed to perfection and are made available at competitive rates which are highly beneficial for our clients."]
+     "responses":["The product is sold for 5 INR per piece, Standard Design is: Shape->Ring gasket, Material->Natural Rubber, Finish->Coated, Color->Black. We have achieved a great deal of expertise in both manufacturing and supplying of the most durable Rubber Gaskets available in the industry. Our Rubber Gaskets are dimensionally accurate and the overall designing of its external and internal features are at par with the latest industrial standards. Our Rubber Gaskets are designed to perfection and are made available at competitive rates which are highly beneficial for our clients."]
     }
     
                             
