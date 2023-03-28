@@ -21,7 +21,7 @@
     },
     {"tag":"type",
     "patterns":["Which type of rubber products do you offer?","What type of rubber do you deal with?", "What type of rubber products do you sell?"],
-    "responses":["We manufacture the following products : Rubber moulded products , Rubber seals, Rubber Rings , Rubber O-Rings , Rubber caps"]
+    "responses":["We manufacture the following products : Rubber moulded products , Rubber seals, Rubber Rings , Rubber O-Rings"]
     },
     {"tag":"Rubber moulded products",
     "patterns":["Which type of rubber moulded products do you offer?","What type of rubber moulded products do you deal with?"],
@@ -38,10 +38,6 @@
     {"tag":"Rubber O-Rings",
     "patterns":["Which type of rubber O Rings do you offer?","What type of rubber O Rings do you deal with?","What are the different rubber O rings you manufacture ?"],
     "responses":["We manufacture the following products Rubber O-Rings : Rubber O-Rings "]
-    },
-    {"tag":"Rubber Caps",
-    "patterns":["Can you tell me the cost of rubber caps?","Give me the discription of rubber caps"],
-    "responses":["We manufacture the following products Rubber Caps : Rubber Caps , The product is sold for 2.5 INR per piece, Standard Design is: Shape->Round Rubber, Size->28 mm, Material->Rubber, Color->Black, Diameter->30 mm, Finishing->Coated leveraging on our skilled and qualified professionals , we are , actively involved in offering a range of rubber caps to our valuable customers"]
     },
     {"tag":"Transformer Rubber Washers",
      "patterns":["Would you help me with the rate of Transformer Rubber Washers and its standard description?", "What's the price of transformer nitrile rubber?"],
