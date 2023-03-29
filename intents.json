@@ -16,8 +16,8 @@
     "responses":["We supply synthetic as well as natural rubber products","We manufacture a huge variety of rubber products","We satisfy needs for a wide variety rubber products"]
     },
     {"tag":"order",
-    "patterns":["How can I order?","Can I order online","When will I get my order?","I want rubber"],
-    "responses":["You can order online as well as by getting in touch with our representatives","We deliver products within 15 days after the initial payment is made"]
+    "patterns":["How can I order?","Can I order online","When will I get my order?","I want rubber","How can I buy this product?","I want to buy these rubber products"],
+    "responses":["You can order online as well as by getting in touch with our representatives : kindly contact - 9123456780 for further details on this product"]
     },
     {"tag":"type",
     "patterns":["Which type of rubber products do you offer?","What type of rubber do you deal with?", "What type of rubber products do you sell?"],

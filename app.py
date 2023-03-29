@@ -200,7 +200,7 @@ def home():
             </div>
 
             <div class="msg-text">
-                Hi, I'am Rubie, your! Go ahead and send me a message. 😄
+                Hi, I'am Rubie, your assistant! Go ahead and send me a message. 😄
             </div>
             </div>
         </div>
